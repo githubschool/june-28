@@ -6,4 +6,4 @@ title: "Welcome to our slide deck!"
 ![cherryontop-o-cat](https://octodex.github.com/images/cherryontop-o-cat.png)
 {: .center}
 
-Caption here
+Mmm I love icecream. :octodex:
